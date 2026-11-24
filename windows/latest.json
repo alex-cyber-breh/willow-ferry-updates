@@ -1,0 +1,4 @@
+{
+ "body": "{\"version\":\"3.24\",\"channel\":\"windows\",\"minShell\":1,\"notes\":\"\",\"manifest\":\"manifests/3.24.json\",\"manifestSha\":\"fe5c9aa356d6b3025ffa7f912c53406a3f0731e29334cc7031b96ddf20dc7e22\",\"date\":\"2026-11-24T22:52:51.747Z\"}",
+ "sig": "F7gBRLCbJczsQN5gvck+u/GouX00lV6XRint+mBIpdWSEpiNe6zOJD07iKQ02mfXTTrRYqDtAKX9OYqX7x3vAw=="
+}
